@@ -1,6 +1,6 @@
 # Wemos sketches collection
 
-Some useful Wemos **D1 Mini Pro** sketches collection made with Arduino IDE. Almost of them suitable for the ESP3266 chip...
+Some useful Wemos **D1 Mini Pro** sketches collection made with Arduino IDE. Almost of them are suitables for the ESP3266 chip too...
 
 ## Wifi
 
