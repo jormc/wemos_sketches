@@ -4,5 +4,5 @@ Some useful Wemos **D1 Mini Pro** sketches collection made with Arduino IDE. Alm
 
 ## Wifi
 
-* `mac.ino` : shows the ESP3266 mac in the serial monitor
+* `mac.ino` : shows the ESP8266 mac in the serial monitor
 
