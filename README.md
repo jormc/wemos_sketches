@@ -4,7 +4,11 @@ Some useful Wemos **D1 Mini Pro** sketches collection made with Arduino IDE.
 
 Almost of them are suitables for the ESP866 chip too...
 
+## Shields
+
+* `dht22`: example sketch for the DHT22 sensor shield
+
 ## Wifi
 
-* `mac.ino` : shows the ESP8266 mac in the serial monitor
+* `mac` : shows the ESP8266 mac in the serial monitor
 
