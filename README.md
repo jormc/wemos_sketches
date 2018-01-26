@@ -11,4 +11,5 @@ Almost of them are suitables for the ESP866 chip too...
 ## Wifi
 
 * `mac` : shows the ESP8266 mac in the serial monitor
+* `webserver`: very simple webserver made with the ESP8266
 
