@@ -14,3 +14,6 @@ Almost of them are suitables for the ESP866 chip too...
 * `webserver`: very simple webserver made with the ESP8266
 * `ap_sta_sequence`: start your ESP8266 into STA mode, and if timeout error, then starts the AP mode
 
+## Own ones
+
+* `wemos_dht_mqtt_webserver` : (WORK IS IN PROGRESS) connect as AP/STA via ESP8266, read DHT22 sensor data, publish it over HTTP and MQTT
