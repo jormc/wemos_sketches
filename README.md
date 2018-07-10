@@ -18,6 +18,11 @@ Almost of them are suitables for the ESP866 chip too...
 
 * `filesystem` : shows how to manage ESP8266 filesystem, format & list files (note, you must add your own files to `data` folder amd upload it to the devide previouly to upload this sketch)
 
+## GPS
+
+* `gps_serial` : shows how to obtain serial data from a NMEA GPS device, such like GY-GPS6MV2
+* `gps_tinygps` : shows how to obtain serial data from a NMEA GPS device, such like GY-GPS6MV2, using the TinyGPS library (https://github.com/mikalhart/TinyGPS)
+
 ## Own ones
 
 * `wemos_dht_mqtt_webserver` : (WORK IS IN PROGRESS) connect as AP/STA via ESP8266, read DHT22 sensor data, publish it over HTTP and MQTT
